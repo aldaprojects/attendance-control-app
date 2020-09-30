@@ -1,4 +1,7 @@
-# Control de asistencias
+## App Movil to manage student's attendance
 
-Esta es una pequeña aplicación que controla la asistencia mediante bluetooth de varios grupos que tenga un profesor. 
-Usa la página [Control Asistencia](http://www.xhonane.com/control-asistencia)
+### App built with Flutter!
+
+It consumes a REST API built by me. 
+When a teacher has a group with students. He can 
+take attendance via bluetooth. Students must have an unique ID, this will serve as a reference to know the person.
